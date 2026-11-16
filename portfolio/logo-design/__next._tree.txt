@@ -1,0 +1,3 @@
+:HL["/_next/static/css/15730e9f7c5c55ef.css","style"]
+:HL["/_next/static/css/680004b67ed0bc12.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"portfolio","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"logo-design","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"amYxhsMGf8yiE1aU4Zyui"}
